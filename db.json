@@ -1,0 +1,25 @@
+{
+  "products":[
+{"id":1,"name":"Red lava crab","category":"Fuscia"},
+{"id":2,"name":"Pelican, australian","category":"Turquoise"},
+{"id":3,"name":"Paca","category":"Mauv"},
+{"id":4,"name":"Colobus, magistrate black","category":"Green"},
+{"id":5,"name":"Pelican, eastern white","category":"Orange"},
+{"id":6,"name":"Salmon pink bird eater tarantula","category":"Orange"},
+{"id":7,"name":"Eagle, crowned","category":"Maroon"},
+{"id":8,"name":"Arctic tern","category":"Purple"},
+{"id":9,"name":"Crane, wattled","category":"Aquamarine"},
+{"id":10,"name":"Galah","category":"Goldenrod"},
+{"id":11,"name":"Ferret, black-footed","category":"Green"},
+{"id":12,"name":"Waterbuck, common","category":"Orange"},
+{"id":13,"name":"Glossy ibis","category":"Crimson"},
+{"id":14,"name":"Australian magpie","category":"Violet"},
+{"id":15,"name":"Red-billed toucan","category":"Teal"},
+{"id":16,"name":"Squirrel, antelope ground","category":"Mauv"},
+{"id":17,"name":"Kafue flats lechwe","category":"Pink"},
+{"id":18,"name":"Feral rock pigeon","category":"Pink"},
+{"id":19,"name":"Insect, stick","category":"Crimson"},
+{"id":20,"name":"Civet (unidentified)","category":"Maroon"},
+]
+
+}
